@@ -1,4 +1,4 @@
-package com.tuempresa.factura.run;
+package com.tuempresa.facturacion.run;
 
 import org.openxava.util.*;
 
@@ -8,7 +8,7 @@ import org.openxava.util.*;
  * Con OpenXava Studio/Eclipse: Botón derecho del ratón > Run As > Java Application
  */
 
-public class factura {
+public class facturacion {
 
 	public static void main(String[] args) throws Exception {
 		DBServer.start("factura-db"); // Para usar tu propia base de datos comenta esta línea y configura src/main/webapp/META-INF/context.xml

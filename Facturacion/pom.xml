@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.tuempresa</groupId>
-	<artifactId>factura</artifactId>
+	<artifactId>Facturacion</artifactId>
 	<version>1.0-SNAPSHOT</version>
 	<packaging>war</packaging>
 
